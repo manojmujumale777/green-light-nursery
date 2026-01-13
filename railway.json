@@ -1,5 +1,7 @@
 {
   "build": {
-    "builder": "MAVEN"
+    "nixpacksPlan": {
+      "providers": ["java"]
+    }
   }
 }
